@@ -1,8 +1,8 @@
 # MobileRobot-Openloopcontrol
 
-Name: P.Keerthana
+NAME: P.KEERTHANA
 
-Ref.No: 212223240069
+REF.NO: 212223240069
 
 ## Aim:
 
@@ -16,7 +16,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 Step1:
 
-Start the Program
+Start the Program.
 
 Step2:
 
@@ -45,6 +45,7 @@ End the Program.
 ## Program
 ```python
 
+from robomaster import robot
 import time
 from robomaster import camera
 
@@ -111,13 +112,15 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![Alt text](image.png)
+![robo](./img/robomaster.png)
+
+![Alt text](<Mobile Robotics.jpg>)
 
 ## MobileRobot Movement Video:
 
 https://youtu.be/JhdAIxub2iU?si=9iXVKF38pBaumGy_
 
-## Result: 
+## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
 
